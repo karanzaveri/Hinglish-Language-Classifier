@@ -1,6 +1,6 @@
 # Hinglish Conversation Classifier
 
-This repository contains the implementation of a Hinglish Conversation Classifier. The classifier is designed to identify and categorize Hinglish text, which is a mixture of Hindi and English commonly used in casual conversations, especially in social media, messaging platforms, and other digital communication channels.
+This repository contains the implementation of a Hinglish Conversation Classifier. The notebook demonstrates how to build a classifier for Hinglish conversations, focusing on the classification of text into three categories: `normal`, `toxic`, and `catfish`. The objective of building such a model is to help detect and stop catfishing and toxic conversations across social media platforms. Due to the recent rise in such events, which have led to monetary loss, depression, and other negative impacts, there is a growing need for automated tools to report and mitigate these harmful interactions. The process includes data loading, preprocessing, model training, and evaluation.
 
 ## Purpose
 
