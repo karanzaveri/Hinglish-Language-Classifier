@@ -95,6 +95,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- A big thank you to all the developers and researchers whose tools and datasets were used in this project.
+- A big thank you to all the developers and researchers whose tools were used in this project.
 - Special thanks to the open-source community for providing valuable resources and support.
 
